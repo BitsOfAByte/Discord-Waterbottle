@@ -17,23 +17,18 @@
 </p>
 
 <!-- Badges -->
-<br />
 <p align="center">
 <!-- Contributors -->
 <img src="https://img.shields.io/github/contributors/BitsOfAByte/discord-waterbottle.svg?style=for-the-badge" align="center" alt='Contributors'>
-<!-- Forks -->
-<img src="https://img.shields.io/github/forks/BitsOfAByte/discord-waterbottle.svg?style=for-the-badge" align="center" alt='Forks' >
-<!-- Stars- ->
+<!-- Stars -->
 <img src="https://img.shields.io/github/stars/BitsOfAByte/discord-waterbottle.svg?style=for-the-badge" align="center" alt='Stars' >
-<!-- Issues -->
-<img src="https://img.shields.io/github/issues/BitsOfAByte/discord-waterbottle.svg?style=for-the-badge" align="center" alt='Issues' >
 </p>
 
 # 
 
 <!-- Project ReadMe -->
 
-## Archived
+## Notice
 This project has now been archived and will not be receiving any future updates or support. Feel free to make a fork if you would like to continue development for the project.
 
 ## Purpose
