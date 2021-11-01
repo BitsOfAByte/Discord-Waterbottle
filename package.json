@@ -1,0 +1,25 @@
+{
+  "name": "discord-waterbottle",
+  "version": "1.0.0",
+  "description": "Remind your users to stay hydrated!",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon index.js --watch .",
+    "config": "node src/scripts/setup.js",
+    "lint": "eslint ."
+  },
+  "author": "BitsOfAByte",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.12",
+    "prompts": "^2.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.4.1"
+  }
+}
