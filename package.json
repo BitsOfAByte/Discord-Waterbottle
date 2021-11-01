@@ -11,7 +11,7 @@
   "author": "BitsOfAByte",
   "license": "GPL-3.0",
   "dependencies": {
-    "discord.js": "^13.2.0",
+    "discord.js": "^13.3.0",
     "dotenv": "^10.0.0",
     "nodemon": "^2.0.12",
     "prompts": "^2.4.2"
