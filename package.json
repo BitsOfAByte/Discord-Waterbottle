@@ -6,7 +6,8 @@
   "scripts": {
     "start": "nodemon index.js --watch .",
     "config": "node src/scripts/setup.js",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
   },
   "author": "BitsOfAByte",
   "license": "GPL-3.0",
