@@ -14,7 +14,7 @@
   "dependencies": {
     "discord.js": "^13.6.0",
     "dotenv": "^16.0.0",
-    "nodemon": "^2.0.14",
+    "nodemon": "^2.0.15",
     "prompts": "^2.4.2"
   },
   "devDependencies": {
